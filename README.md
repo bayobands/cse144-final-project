@@ -52,7 +52,8 @@ Upload `submission.csv` to the [Kaggle competition](https://www.kaggle.com/compe
 
 ## Kaggle Leaderboard
 
-![Leaderboard](leaderboard.png)
+![Leaderboard](<img width="1373" height="801" alt="image" src="https://github.com/user-attachments/assets/5af7a10c-aab5-4890-9ba7-3dd49df305c0" />
+)
 
 
 See the full report (`CSE144_Final_Report.pdf`) for details.
