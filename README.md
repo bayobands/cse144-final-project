@@ -42,7 +42,7 @@ Training takes ~5–10 minutes on a T4 GPU.
 Run the inference cell. This loads `best_model.pth`, runs predictions on all 1,036 test images, and writes `submission.csv` in the format Kaggle expects.
 
 ### 5. Submit to Kaggle
-Upload `submission.csv` to the [Kaggle competition](https://www.kaggle.com/competitions/ucsc-cse-144-spring-2026-final-project) under "Submit Predictions."
+Upload `submission.csv(3)` to the [Kaggle competition](https://www.kaggle.com/competitions/ucsc-cse-144-spring-2026-final-project) under "Submit Predictions."
 
 ## Reproducibility
 
